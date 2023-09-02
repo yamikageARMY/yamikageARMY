@@ -2,9 +2,11 @@
 
 <h2> Certification</h2>
 
-- [Google Cybersecurity] (https://www.coursera.org/account/accomplishments/professional-cert/Z3HYNX3VV8L9)
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/Z3HYNX3VV8L9)
+<br />
 
 <h2>👨‍💻 Projects:</h2>
 
--[Flie permissions in Linux] (https://docs.google.com/document/d/1HNKQMDe83G2D710rjf6uAgp_cFFwAJS0qw8VFcXTNZ4/edit?resourcekey=0-HSyjn0eowpEnQNDnh03qkw#heading=h.uakdmh2r7kug) 
+- [Flie permissions in Linux](https://github.com/yamikageARMY/FilePermissionLab/blob/main/README.md) 
+<br /> 
 
