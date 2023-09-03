@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Flie permissions in Linux](https://github.com/yamikageARMY/FilePermissionLab/blob/main/README.md)
+- [Flie permissions in Linux](https://github.com/yamikageARMY/FilePermissionLab)
 
 - [Apply filters to SQL queries](https://github.com/yamikageARMY/ApplyfilterstoSQLqueries)
 
