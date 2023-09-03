@@ -9,7 +9,7 @@
 
 - [Flie permissions in Linux](https://github.com/yamikageARMY/FilePermissionLab/blob/main/README.md)
 
-- [Apply filters to SQL queries](https://github.com/yamikageARMY/ApplyfilterstoSQLqueries/blob/main/README.md)
+- [Apply filters to SQL queries](https://github.com/yamikageARMY/ApplyfilterstoSQLqueries)
 
 <br /> 
 
